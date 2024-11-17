@@ -1,0 +1,9 @@
+langchain
+langchain-community 
+langchain-chroma 
+langchain_huggingface
+PyPDF2 
+langchain_google_genai 
+streamlit
+langchain_text_splitters 
+python-dotenv
